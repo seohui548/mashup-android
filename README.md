@@ -1,6 +1,8 @@
 # mash-up-android
 
+## 충돌내기 test,,
 ### 글 작성하는 법
+
 
 1. `mashup-android/content/blog/` 아래 글의 제목으로 폴더를 생성해주세요
 2. 아래 양식을 붙여넣어 index.md 파일을 생성해주세요
@@ -19,7 +21,7 @@ cover: "./ic_android.jpg"
 
 > 소개글
 
-# 마크업 문법 대로 글을 써주시면 됩니다 :)
+#ㅎㅏ하하
 
 일반 글쓰기
 
